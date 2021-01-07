@@ -16,6 +16,12 @@ body {
     background-color: rgba(72, 66, 122, 0.349);
 }
 
+span {
+    display: flex;
+    padding: var(--spacing-1);
+    background-color: rgba(50, 116, 79, 0.349);
+}
+
 
 nav {
     display: flex;
@@ -33,6 +39,22 @@ nav {
     background-color: rgba(128, 128, 128, 0.349);
 }
 
+
+#js {
+    background-color: rgba(50, 116, 79, 0.349);
+    margin: 0 auto;
+    display: flex;
+}
+
+.button {
+    background-color: rgba(116, 69, 50, 0.349);
+}
+
+#funFact {
+    padding: 0 var(--spacing-1);
+    margin-left: 2%;
+    background-color: rgba(83, 8, 8, 0.301);
+}
 
 
 #about-me {
